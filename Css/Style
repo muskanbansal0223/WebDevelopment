@@ -1,0 +1,12 @@
+// Linking CSS to web Browser//
+
+// After title 
+// Linking
+
+<link rel = "stylesheet" type="text/css"   href="style.css">
+
+And in style.css
+h1
+{
+color: Blue;
+}
