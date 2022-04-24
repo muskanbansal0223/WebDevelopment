@@ -3,10 +3,71 @@
 // After title 
 // Linking
 
+
+
+
+
 <link rel = "stylesheet" type="text/css"   href="style.css">
+
+
+
+
+
 
 And in style.css
 h1
 {
 color: Blue;
+}
+
+
+
+
+
+For acessing class use .          .myfirstid { color : Blue }
+               id       #
+              
+<h2 class = "myfirstid" >
+Welcome
+</h2>
+
+<h2 id = "myfirstid" >
+Welcome
+</h2>
+
+
+
+
+
+/* Comment */
+
+
+
+
+Background;
+
+<div class= "Background" >
+
+</div>
+
+.backImg {
+width: 100%;
+height : 100vh;
+}
+
+
+
+
+
+
+Fonts
+
+<p id = "fontcss_1">
+    I wish my Coding Journey to be successful
+</p>
+#fontcss_1
+{
+    font-family: 'Lora', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Tapestry', cursive;
 }
